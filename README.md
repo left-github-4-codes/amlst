@@ -1,2 +1,1 @@
-# amlst
-code for The Amrican Statistician
+Read the enclosed readmefirst.txt, please.
