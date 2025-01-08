@@ -9,7 +9,7 @@ enableJIT(1)
 lstReg1 = function(z, alpha, delta, N_ls)
 {
   #z is the input data set, with n rows and p columns the last column is the yi
-  #alpha, a tuning parameter, default is one, the larger, the faster but less efficient
+  #alpha, a tuning parameter, default is three, the larger, the faster but less efficient
   #N_ls , a tuning parameter, the total number of local LS estimation decided to perform
   #usually is set to be one to ten, default=1
   #delta is the amount of small perturbation applied to beta on the boundary, default=.5
